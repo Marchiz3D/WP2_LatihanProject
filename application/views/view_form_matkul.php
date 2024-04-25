@@ -8,6 +8,7 @@
 <body>
   <center>
     <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
+      <?= validation_errors(); ?>
       <table>
         <tr>
           <th colspan="3">
