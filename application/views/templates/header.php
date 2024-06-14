@@ -21,5 +21,4 @@
 <body id="page-top">
   <div id="wrapper">
 
-    </div>
-  </body>
+ 

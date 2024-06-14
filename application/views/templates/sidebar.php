@@ -28,10 +28,16 @@
     </a>
   </li>
 
+  <li class="nav-item">
+    <a class="nav-link pb-0" href="<?= base_url('buku/kategori'); ?>">
+      <i class="fa fa-fw fa-book"></i>
+      <span>Kategori</span>
+    </a>
+  </li>
+
   <hr class="sidebar-divider mt-3">
 
   <div class="text-center d-none d-md-inline">
     <button class="rounded-circle border-0" id="sidebarToggle"></button>
   </div>
-
 </ul>
